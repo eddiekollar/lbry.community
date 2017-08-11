@@ -1,15 +1,15 @@
 import React from 'react';
 
-class App extends React.Component {
+class Contest extends React.Component {
     constructor(props) {
         super(props);
     }
     render(){
         return(
             <div>
-                <h1>lbry.community</h1>
+                <h1>Contest</h1>
             </div>
         );
     }
 }
-export default App;
+export default Contest;
