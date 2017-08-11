@@ -11,6 +11,3 @@ and http://lbry.community/intro/en.html
 ... probably also http://lbry.community/contest-entries.html
 .... so basically everything :P
 Good luck :) and thank you for helping.
-
-
-Download the Full website in Zip: https://github.com/lbry-community/lbry.community/blob/master/FULL%20WEBSITE.zip
