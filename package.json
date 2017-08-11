@@ -1,11 +1,11 @@
 {
-  "name": "react-tumblr",
+  "name": "lbry-community",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "build": "webpack --config ./webpack.build.config.js --progress --colors"
+    "build": "webpack --config ./webpack.build.js --progress --colors"
   },
   "repository": {
     "type": "git",
